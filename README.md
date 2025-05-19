@@ -22,7 +22,7 @@ I created and configured a Windows 10 virtual machine in Microsoft Azure and ins
 ## 🔧 What I Did
 
 - Deployed a cloud VM in Azure (B1s)
-- Accessed the VM via Remote Desktop 
+- Accessed the VM via Remote Desktop (RDP) — Port 3389 was enabled during deployment
 - Installed and validated Wireshark live captures
 - Installed Sysmon with a custom config (SwiftOnSecurity)
 - Verified Sysmon logs using Windows Event Viewer
