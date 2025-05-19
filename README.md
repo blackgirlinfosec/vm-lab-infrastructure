@@ -22,7 +22,7 @@ I created and configured a Windows 10 virtual machine in Microsoft Azure and ins
 ## 🔧 What I Did
 
 - Deployed a cloud VM in Azure (B1s)
-- Configured RDP for secure access (Port 3389)
+- Accessed the VM via Remote Desktop 
 - Installed and validated Wireshark live captures
 - Installed Sysmon with a custom config (SwiftOnSecurity)
 - Verified Sysmon logs using Windows Event Viewer
