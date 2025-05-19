@@ -33,28 +33,29 @@ I created and configured a Windows 10 virtual machine in Microsoft Azure and ins
 
 ## 🖼️ Screenshots
 
-### ✅ Azure VM Overview
+
+### ✅ Azure VM Overview  
 ![VM Overview](./screenshots/vm-overview-blueteamwin10.png)
 
-### 🌐 Network Configuration
+### 🌐 Network Configuration  
 ![Network Settings](./screenshots/vm-network-settings-blueteamwin10.png)
 
-### 🔐 RDP Connection Warning
+### 🔐 RDP Connection Warning  
 ![RDP Warning](./screenshots/vm-rdp-connection-warning.png)
 
-### 🐬 Wireshark Live Capture
+### 🐬 Wireshark Live Capture  
 ![Wireshark](./screenshots/tools/tool-wireshark-interface.png)
 
-### 🔒 Sysmon Installation
+### 🔒 Sysmon Installation  
 ![Sysmon Install](./screenshots/tools/tool-sysmon-install.png)
 
-### 📊 Sysmon Logs in Event Viewer
+### 📊 Sysmon Logs in Event Viewer  
 ![Sysmon Logs](./screenshots/tools/tool-sysmon-eventlog.png)
 
-### 📤 Winlogbeat Service Install
+### 📤 Winlogbeat Service Install  
 ![Winlogbeat Install](./screenshots/tools/tool-winlogbeat-installed-and-started.png)
 
-### 🟢 Winlogbeat Running in Services
+### 🟢 Winlogbeat Running in Services  
 ![Winlogbeat Running](./screenshots/tools/tool-winlogbeat-service-running.png)
 
 
